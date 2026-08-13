@@ -82,13 +82,13 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,268 | 🐛 1 | 🌐 XSLT | 📅 2026-05-05
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,663 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
-* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,525 | 🐛 8 | 📅 2023-11-11
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,269 | 🐛 1 | 🌐 XSLT | 📅 2026-05-05
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,664 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
+* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,526 | 🐛 8 | 📅 2023-11-11
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 825 | 🐛 2 | 🌐 TypeScript | 📅 2025-09-24
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 772 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
-* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 318 | 🐛 1 | 🌐 Java | 📅 2025-05-22
+* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 319 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 290 | 🐛 14 | 🌐 Dockerfile | 📅 2026-02-20
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 136 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
 * [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-05-19
@@ -125,7 +125,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ## Contribution
 
-#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,148 | 🐛 1 | 📅 2026-07-16.
+#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,147 | 🐛 1 | 📅 2026-07-16.
 
 ## License
 

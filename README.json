@@ -429,7 +429,7 @@
             "last_commit": "2026-05-05T06:50:38Z",
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4268
+            "stars": 4269
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-01-26T09:07:32Z",
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2023-11-11T21:46:31Z",
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1525
+            "stars": 1526
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2025-05-22T06:13:18Z",
             "owner": "emilybache",
             "repo": "Racing-Car-Katas",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:36.629Z",
+    "last_updated": "2026-08-13T19:53:35.838Z",
     "original_repository": "gamontal/awesome-katas",
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
     "enhanced_repository": "enhansome/enhansome-katas",
