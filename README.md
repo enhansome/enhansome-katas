@@ -88,9 +88,9 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 825 | 🐛 2 | 🌐 TypeScript | 📅 2025-09-24
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 772 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
-* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 319 | 🐛 1 | 🌐 Java | 📅 2025-05-22
+* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 318 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 290 | 🐛 14 | 🌐 Dockerfile | 📅 2026-02-20
-* [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 136 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
+* [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 135 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
 * [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-05-19
 * [Train Reservation kata](https://github.com/emilybache/KataTrainReservation) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2026-01-19
 * [incremental\_katas](https://github.com/Gianfrancoalongi/incremental_katas) ⭐ 61 | 🐛 0 | 📅 2023-09-06
@@ -125,7 +125,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ## Contribution
 
-#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,146 | 🐛 1 | 📅 2026-07-16.
+#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,145 | 🐛 1 | 📅 2026-07-16.
 
 ## License
 
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

@@ -513,7 +513,7 @@
             "last_commit": "2025-05-22T06:13:18Z",
             "owner": "emilybache",
             "repo": "Racing-Car-Katas",
-            "stars": 319
+            "stars": 318
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-08-05T06:56:06Z",
             "owner": "emilybache",
             "repo": "Parrot-Refactoring-Kata",
-            "stars": 136
+            "stars": 135
           }
         },
         {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:16:51.967Z",
+    "last_updated": "2026-08-16T19:16:53.221Z",
     "original_repository": "gamontal/awesome-katas",
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
     "enhanced_repository": "enhansome/enhansome-katas",
