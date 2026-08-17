@@ -60,33 +60,33 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [Kata 4: (Form) File Upload](https://github.com/devdrops/Katas/tree/kata-upload-file) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2015-10-23
 * [Kata 5: (Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2015-10-23
 
-## [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+## [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
 
-* [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [String Calculator Kata](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [The Bowling Game Kata](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [The FizzBuzz Kata](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [The OddEven Kata](https://github.com/garora/TDD-Katas#the-oddeven-kata) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [The PrimeFactor Kata](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Game of Life](https://github.com/garora/TDD-Katas#game-of-life-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Harry Potter](https://github.com/garora/TDD-Katas#harry-potter-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [LCD Digits](https://github.com/garora/TDD-Katas#lcd-digits-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Leap Year](https://github.com/garora/TDD-Katas#leap-year-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Mine Fields](https://github.com/garora/TDD-Katas#mine-fields-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Poker Hands](https://github.com/garora/TDD-Katas#poker-hands) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Recently Used List](https://github.com/garora/TDD-Katas#recently-used-list-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Reversi](https://github.com/garora/TDD-Katas#reversi-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
-* [Yehtzee](https://github.com/garora/TDD-Katas#yehtzee-) ⭐ 732 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [String Calculator Kata](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [The Bowling Game Kata](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [The FizzBuzz Kata](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [The OddEven Kata](https://github.com/garora/TDD-Katas#the-oddeven-kata) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [The PrimeFactor Kata](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Game of Life](https://github.com/garora/TDD-Katas#game-of-life-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Harry Potter](https://github.com/garora/TDD-Katas#harry-potter-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [LCD Digits](https://github.com/garora/TDD-Katas#lcd-digits-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Leap Year](https://github.com/garora/TDD-Katas#leap-year-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Mine Fields](https://github.com/garora/TDD-Katas#mine-fields-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Poker Hands](https://github.com/garora/TDD-Katas#poker-hands) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Recently Used List](https://github.com/garora/TDD-Katas#recently-used-list-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Reversi](https://github.com/garora/TDD-Katas#reversi-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
+* [Yehtzee](https://github.com/garora/TDD-Katas#yehtzee-) ⭐ 733 | 🐛 1 | 🌐 C# | 📅 2022-09-30
 * [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,269 | 🐛 1 | 🌐 XSLT | 📅 2026-05-05
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,664 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,268 | 🐛 1 | 🌐 XSLT | 📅 2026-05-05
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,665 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
 * [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,526 | 🐛 8 | 📅 2023-11-11
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 825 | 🐛 2 | 🌐 TypeScript | 📅 2025-09-24
-* [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 772 | 🐛 12 | 🌐 C# | 📅 2024-02-14
+* [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 773 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
 * [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 318 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 290 | 🐛 14 | 🌐 Dockerfile | 📅 2026-02-20
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
