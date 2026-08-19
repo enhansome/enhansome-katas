@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition. Dave Thomas @pragdave, started this movement for programming. This project aims to provide you with a list of some kata exercises that I've found in the Internet and the Github community. These exercises vary from general to more complex algorithms and real life situations for you to try using your preferred programming language. Remember that code katas are not quizzes or puzzles. You should not only try to 'solve' it, but find a very good solution, following best practices of the programming language you are using.",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27964304,
             "language": "Clojure",
             "last_commit": "2023-10-28T20:31:26Z",
             "owner": "gigasquid",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27964304,
             "language": "Clojure",
             "last_commit": "2023-10-28T20:31:26Z",
             "owner": "gigasquid",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27964304,
             "language": "Clojure",
             "last_commit": "2023-10-28T20:31:26Z",
             "owner": "gigasquid",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27964304,
             "language": "Clojure",
             "last_commit": "2023-10-28T20:31:26Z",
             "owner": "gigasquid",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27964304,
             "language": "Clojure",
             "last_commit": "2023-10-28T20:31:26Z",
             "owner": "gigasquid",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27964304,
             "language": "Clojure",
             "last_commit": "2023-10-28T20:31:26Z",
             "owner": "gigasquid",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27964304,
             "language": "Clojure",
             "last_commit": "2023-10-28T20:31:26Z",
             "owner": "gigasquid",
@@ -110,7 +112,7 @@
       "title": "Wonderland Clojure Katas"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44773536,
             "language": "PHP",
             "last_commit": "2015-10-23T00:30:32Z",
             "owner": "devdrops",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44773536,
             "language": "PHP",
             "last_commit": "2015-10-23T00:30:32Z",
             "owner": "devdrops",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44773536,
             "language": "PHP",
             "last_commit": "2015-10-23T00:30:32Z",
             "owner": "devdrops",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44773536,
             "language": "PHP",
             "last_commit": "2015-10-23T00:30:32Z",
             "owner": "devdrops",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44773536,
             "language": "PHP",
             "last_commit": "2015-10-23T00:30:32Z",
             "owner": "devdrops",
@@ -186,7 +193,7 @@
       "title": "SensioLabs PoleDev Katas"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -209,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -237,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -307,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -321,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -335,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -349,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -363,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -377,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -391,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2671424,
             "language": "C#",
             "last_commit": "2022-09-30T16:46:25Z",
             "owner": "garora",
@@ -402,7 +424,7 @@
       "title": "Gaurav Arora's TDD Katas Collection"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -411,11 +433,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136380207,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-21T18:51:07Z",
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4908
+            "stars": 4909
           }
         },
         {
@@ -425,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10599951,
             "language": "XSLT",
             "last_commit": "2026-05-05T06:50:38Z",
             "owner": "emilybache",
@@ -439,11 +463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67723575,
             "language": "Shell",
             "last_commit": "2026-01-26T09:07:32Z",
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1664
+            "stars": 1665
           }
         },
         {
@@ -453,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46900105,
             "language": null,
             "last_commit": "2023-11-11T21:46:31Z",
             "owner": "XD-DENG",
@@ -467,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10599822,
             "language": "TypeScript",
             "last_commit": "2025-09-24T17:36:28Z",
             "owner": "emilybache",
@@ -481,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21999204,
             "language": "C#",
             "last_commit": "2024-02-14T18:05:20Z",
             "owner": "ardalis",
@@ -495,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1357176,
             "language": "C#",
             "last_commit": "2024-07-03T08:59:06Z",
             "owner": "NotMyself",
@@ -509,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10648365,
             "language": "Java",
             "last_commit": "2025-05-22T06:13:18Z",
             "owner": "emilybache",
@@ -523,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94071787,
             "language": "Dockerfile",
             "last_commit": "2026-02-20T22:58:14Z",
             "owner": "eficode-academy",
@@ -537,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15967193,
             "language": "LabVIEW",
             "last_commit": "2026-08-05T06:56:06Z",
             "owner": "emilybache",
@@ -551,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159340416,
             "language": "C#",
             "last_commit": "2026-05-19T07:22:25Z",
             "owner": "emilybache",
@@ -565,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8291426,
             "language": "Python",
             "last_commit": "2026-01-19T07:17:15Z",
             "owner": "emilybache",
@@ -579,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13127195,
             "language": null,
             "last_commit": "2023-09-06T04:20:09Z",
             "owner": "Gianfrancoalongi",
@@ -593,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82824199,
             "language": "Java",
             "last_commit": "2024-05-06T07:45:25Z",
             "owner": "daviddenton",
@@ -607,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93073755,
             "language": "C#",
             "last_commit": "2021-05-12T06:18:39Z",
             "owner": "matteobaglini",
@@ -621,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88511875,
             "language": "PHP",
             "last_commit": "2023-11-02T08:25:34Z",
             "owner": "racingDeveloper",
@@ -635,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18116665,
             "language": "Scala",
             "last_commit": "2017-09-12T06:23:12Z",
             "owner": "sandromancuso",
@@ -649,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15458079,
             "language": "C#",
             "last_commit": "2022-11-03T02:20:48Z",
             "owner": "AlanBarber",
@@ -663,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87564831,
             "language": "Java",
             "last_commit": "2021-10-14T11:21:14Z",
             "owner": "sandromancuso",
@@ -677,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58536904,
             "language": null,
             "last_commit": "2018-09-19T14:47:41Z",
             "owner": "christian-fei",
@@ -691,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106530767,
             "language": null,
             "last_commit": "2020-06-15T12:15:44Z",
             "owner": "claranet-it",
@@ -705,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292816984,
             "language": null,
             "last_commit": "2022-09-30T10:54:24Z",
             "owner": "nickdelgrosso",
@@ -719,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78152376,
             "language": "Java",
             "last_commit": "2022-12-09T15:07:22Z",
             "owner": "xpepper",
@@ -733,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53003484,
             "language": "Go",
             "last_commit": "2023-03-07T01:53:03Z",
             "owner": "pdt256",
@@ -747,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125184576,
             "language": null,
             "last_commit": "2020-07-18T08:26:54Z",
             "owner": "ivoputzer",
@@ -761,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177483196,
             "language": "Java",
             "last_commit": "2019-04-07T15:02:53Z",
             "owner": "trikitrok",
@@ -775,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323194904,
             "language": "JavaScript",
             "last_commit": "2021-01-10T18:54:49Z",
             "owner": "nealhu",
@@ -789,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313149942,
             "language": "JavaScript",
             "last_commit": "2021-01-03T03:56:35Z",
             "owner": "nealhu",
@@ -800,24 +850,31 @@
       "title": "Others"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 47000453,
+            "language": null,
+            "last_commit": "2026-07-16T18:07:17Z",
+            "owner": "gamontal",
+            "repo": "awesome-katas",
+            "stars": 3146
+          },
+          "title": "Please read the contribution guidelines."
+        }
+      ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Please read the contribution guidelines."
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:22:31.909Z",
+    "last_updated": "2026-08-19T12:34:48.482Z",
     "original_repository": "gamontal/awesome-katas",
+    "original_repository_id": 47000453,
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
     "enhanced_repository": "enhansome/enhansome-katas",
     "enhanced_repository_description": null,
