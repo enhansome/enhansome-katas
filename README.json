@@ -438,7 +438,7 @@
             "last_commit": "2024-08-21T18:51:07Z",
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4909
+            "stars": 4908
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-01-26T09:07:32Z",
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1665
+            "stars": 1666
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2023-11-11T21:46:31Z",
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1527
+            "stars": 1528
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2026-07-16T18:07:17Z",
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3146
+            "stars": 3148
           },
           "title": "Please read the contribution guidelines."
         }
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:20:01.802Z",
+    "last_updated": "2026-08-20T19:25:39.988Z",
     "original_repository": "gamontal/awesome-katas",
     "original_repository_id": 47000453,
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
