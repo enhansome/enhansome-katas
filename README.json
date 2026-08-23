@@ -453,7 +453,7 @@
             "last_commit": "2026-08-21T21:22:39Z",
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4269
+            "stars": 4270
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-01-26T09:07:32Z",
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1669
+            "stars": 1670
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2023-11-11T21:46:31Z",
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1528
+            "stars": 1530
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2026-07-16T18:07:17Z",
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3148
+            "stars": 3149
           },
           "title": "Please read the contribution guidelines."
         }
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:18:10.758Z",
+    "last_updated": "2026-08-23T19:18:25.989Z",
     "original_repository": "gamontal/awesome-katas",
     "original_repository_id": 47000453,
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
