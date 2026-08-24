@@ -4,10 +4,115 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Alphabet Cipher",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Alphabet Cipher",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27964304,
+                "language": "Clojure",
+                "last_commit": "2023-10-28T20:31:26Z",
+                "owner": "gigasquid",
+                "repo": "wonderland-clojure-katas",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Card game War",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27964304,
+                "language": "Clojure",
+                "last_commit": "2023-10-28T20:31:26Z",
+                "owner": "gigasquid",
+                "repo": "wonderland-clojure-katas",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Doublets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27964304,
+                "language": "Clojure",
+                "last_commit": "2023-10-28T20:31:26Z",
+                "owner": "gigasquid",
+                "repo": "wonderland-clojure-katas",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fox Goose Bag of Corn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27964304,
+                "language": "Clojure",
+                "last_commit": "2023-10-28T20:31:26Z",
+                "owner": "gigasquid",
+                "repo": "wonderland-clojure-katas",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magic Square",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27964304,
+                "language": "Clojure",
+                "last_commit": "2023-10-28T20:31:26Z",
+                "owner": "gigasquid",
+                "repo": "wonderland-clojure-katas",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tiny Maze",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27964304,
+                "language": "Clojure",
+                "last_commit": "2023-10-28T20:31:26Z",
+                "owner": "gigasquid",
+                "repo": "wonderland-clojure-katas",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wonderland Number",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27964304,
+                "language": "Clojure",
+                "last_commit": "2023-10-28T20:31:26Z",
+                "owner": "gigasquid",
+                "repo": "wonderland-clojure-katas",
+                "stars": 876
+              }
+            }
+          ],
           "description": null,
-          "children": [],
+          "node_type": "item",
           "repo_info": {
             "archived": false,
             "id": 27964304,
@@ -16,412 +121,343 @@
             "owner": "gigasquid",
             "repo": "wonderland-clojure-katas",
             "stars": 876
-          }
+          },
+          "title": "Wonderland Clojure Katas"
         },
         {
-          "node_type": "item",
-          "title": "Card game War",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kata 1: (Form) DataTransformer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44773536,
+                "language": "PHP",
+                "last_commit": "2015-10-23T00:30:32Z",
+                "owner": "devdrops",
+                "repo": "Katas",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kata 2: (EventDispatcher) Event Listener / Event Dispatcher",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44773536,
+                "language": "PHP",
+                "last_commit": "2015-10-23T00:30:32Z",
+                "owner": "devdrops",
+                "repo": "Katas",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kata 3: (Form) Inherit data / Virtual Form",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44773536,
+                "language": "PHP",
+                "last_commit": "2015-10-23T00:30:32Z",
+                "owner": "devdrops",
+                "repo": "Katas",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kata 4: (Form) File Upload",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44773536,
+                "language": "PHP",
+                "last_commit": "2015-10-23T00:30:32Z",
+                "owner": "devdrops",
+                "repo": "Katas",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kata 5: (Translation) Manage translations",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44773536,
+                "language": "PHP",
+                "last_commit": "2015-10-23T00:30:32Z",
+                "owner": "devdrops",
+                "repo": "Katas",
+                "stars": 1
+              }
+            }
+          ],
           "description": null,
-          "children": [],
+          "node_type": "item",
           "repo_info": {
             "archived": false,
-            "id": 27964304,
-            "language": "Clojure",
-            "last_commit": "2023-10-28T20:31:26Z",
-            "owner": "gigasquid",
-            "repo": "wonderland-clojure-katas",
-            "stars": 876
-          }
+            "id": 44773536,
+            "language": "PHP",
+            "last_commit": "2015-10-23T00:30:32Z",
+            "owner": "devdrops",
+            "repo": "Katas",
+            "stars": 1
+          },
+          "title": "SensioLabs PoleDev Katas"
         },
         {
-          "node_type": "item",
-          "title": "Doublets",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "String Sum Kata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "String Calculator Kata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Bowling Game Kata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The FizzBuzz Kata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The OddEven Kata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The PrimeFactor Kata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Game of Life",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Harry Potter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LCD Digits",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leap Year",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mine Fields",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poker Hands",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recently Used List",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reversi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yehtzee",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2671424,
+                "language": "C#",
+                "last_commit": "2022-09-30T16:46:25Z",
+                "owner": "garora",
+                "repo": "TDD-Katas",
+                "stars": 733
+              }
+            }
+          ],
           "description": null,
-          "children": [],
+          "node_type": "item",
           "repo_info": {
             "archived": false,
-            "id": 27964304,
-            "language": "Clojure",
-            "last_commit": "2023-10-28T20:31:26Z",
-            "owner": "gigasquid",
-            "repo": "wonderland-clojure-katas",
-            "stars": 876
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fox Goose Bag of Corn",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 27964304,
-            "language": "Clojure",
-            "last_commit": "2023-10-28T20:31:26Z",
-            "owner": "gigasquid",
-            "repo": "wonderland-clojure-katas",
-            "stars": 876
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magic Square",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 27964304,
-            "language": "Clojure",
-            "last_commit": "2023-10-28T20:31:26Z",
-            "owner": "gigasquid",
-            "repo": "wonderland-clojure-katas",
-            "stars": 876
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tiny Maze",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 27964304,
-            "language": "Clojure",
-            "last_commit": "2023-10-28T20:31:26Z",
-            "owner": "gigasquid",
-            "repo": "wonderland-clojure-katas",
-            "stars": 876
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wonderland Number",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 27964304,
-            "language": "Clojure",
-            "last_commit": "2023-10-28T20:31:26Z",
-            "owner": "gigasquid",
-            "repo": "wonderland-clojure-katas",
-            "stars": 876
-          }
+            "id": 2671424,
+            "language": "C#",
+            "last_commit": "2022-09-30T16:46:25Z",
+            "owner": "garora",
+            "repo": "TDD-Katas",
+            "stars": 733
+          },
+          "title": "Gaurav Arora's TDD Katas Collection"
         }
       ],
-      "title": "Wonderland Clojure Katas"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Kata 1: (Form) DataTransformer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 44773536,
-            "language": "PHP",
-            "last_commit": "2015-10-23T00:30:32Z",
-            "owner": "devdrops",
-            "repo": "Katas",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kata 2: (EventDispatcher) Event Listener / Event Dispatcher",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 44773536,
-            "language": "PHP",
-            "last_commit": "2015-10-23T00:30:32Z",
-            "owner": "devdrops",
-            "repo": "Katas",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kata 3: (Form) Inherit data / Virtual Form",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 44773536,
-            "language": "PHP",
-            "last_commit": "2015-10-23T00:30:32Z",
-            "owner": "devdrops",
-            "repo": "Katas",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kata 4: (Form) File Upload",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 44773536,
-            "language": "PHP",
-            "last_commit": "2015-10-23T00:30:32Z",
-            "owner": "devdrops",
-            "repo": "Katas",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kata 5: (Translation) Manage translations",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 44773536,
-            "language": "PHP",
-            "last_commit": "2015-10-23T00:30:32Z",
-            "owner": "devdrops",
-            "repo": "Katas",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "SensioLabs PoleDev Katas"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "String Sum Kata",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "String Calculator Kata",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The Bowling Game Kata",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The FizzBuzz Kata",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The OddEven Kata",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The PrimeFactor Kata",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Game of Life",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Harry Potter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LCD Digits",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Leap Year",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mine Fields",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Poker Hands",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Recently Used List",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reversi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yehtzee",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2671424,
-            "language": "C#",
-            "last_commit": "2022-09-30T16:46:25Z",
-            "owner": "garora",
-            "repo": "TDD-Katas",
-            "stars": 733
-          }
-        }
-      ],
-      "title": "Gaurav Arora's TDD Katas Collection"
+      "title": "Overview"
     },
     {
       "description": null,
@@ -468,7 +504,7 @@
             "last_commit": "2026-01-26T09:07:32Z",
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1670
+            "stars": 1671
           }
         },
         {
@@ -483,7 +519,7 @@
             "last_commit": "2023-11-11T21:46:31Z",
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1530
+            "stars": 1531
           }
         },
         {
@@ -872,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:18:25.989Z",
+    "last_updated": "2026-08-24T14:04:09.278Z",
     "original_repository": "gamontal/awesome-katas",
     "original_repository_id": 47000453,
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
