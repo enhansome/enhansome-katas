@@ -474,7 +474,7 @@
             "last_commit": "2024-08-21T18:51:07Z",
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4908
+            "stars": 4909
           }
         },
         {
@@ -899,7 +899,7 @@
             "last_commit": "2026-07-16T18:07:17Z",
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3151
+            "stars": 3152
           },
           "title": "Please read the contribution guidelines."
         }
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:19.481Z",
+    "last_updated": "2026-08-25T19:26:08.672Z",
     "original_repository": "gamontal/awesome-katas",
     "original_repository_id": 47000453,
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",

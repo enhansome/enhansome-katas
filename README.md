@@ -125,7 +125,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ## Contribution
 
-#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,151 | 🐛 1 | 📅 2026-07-16.
+#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,152 | 🐛 1 | 📅 2026-07-16.
 
 ## License
 
