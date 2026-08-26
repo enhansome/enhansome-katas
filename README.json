@@ -489,7 +489,7 @@
             "last_commit": "2026-08-21T21:22:39Z",
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4272
+            "stars": 4273
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-08-21T22:39:22Z",
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 825
+            "stars": 826
           }
         },
         {
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:26:08.672Z",
+    "last_updated": "2026-08-26T21:33:32.167Z",
     "original_repository": "gamontal/awesome-katas",
     "original_repository_id": 47000453,
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
