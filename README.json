@@ -908,9 +908,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:33:32.167Z",
-    "original_repository": "gamontal/awesome-katas",
-    "original_repository_id": 47000453,
+    "last_updated": "2026-08-27T11:45:53.728Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 47000453,
+      "language": null,
+      "last_commit": "2026-07-16T18:07:17Z",
+      "owner": "gamontal",
+      "repo": "awesome-katas",
+      "stars": 3152
+    },
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
     "enhanced_repository": "enhansome/enhansome-katas",
     "enhanced_repository_description": null,
