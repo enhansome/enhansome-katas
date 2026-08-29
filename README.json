@@ -18,7 +18,8 @@
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             }
           ],
           "description": null,
@@ -122,7 +129,8 @@
             "repo": "wonderland-clojure-katas",
             "stars": 876
           },
-          "title": "Wonderland Clojure Katas"
+          "title": "Wonderland Clojure Katas",
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "children": [
@@ -139,7 +147,8 @@
                 "owner": "devdrops",
                 "repo": "Katas",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -154,7 +163,8 @@
                 "owner": "devdrops",
                 "repo": "Katas",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -169,7 +179,8 @@
                 "owner": "devdrops",
                 "repo": "Katas",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -184,7 +195,8 @@
                 "owner": "devdrops",
                 "repo": "Katas",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -199,7 +211,8 @@
                 "owner": "devdrops",
                 "repo": "Katas",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             }
           ],
           "description": null,
@@ -213,7 +226,8 @@
             "repo": "Katas",
             "stars": 1
           },
-          "title": "SensioLabs PoleDev Katas"
+          "title": "SensioLabs PoleDev Katas",
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "children": [
@@ -230,7 +244,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -245,7 +260,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -260,7 +276,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -275,7 +292,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -290,7 +308,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -305,7 +324,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -320,7 +340,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -335,7 +356,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -350,7 +372,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -365,7 +388,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -380,7 +404,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -395,7 +420,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -410,7 +436,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -425,7 +452,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             },
             {
               "node_type": "item",
@@ -440,7 +468,8 @@
                 "owner": "garora",
                 "repo": "TDD-Katas",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T01:57:42.951Z"
             }
           ],
           "description": null,
@@ -454,7 +483,8 @@
             "repo": "TDD-Katas",
             "stars": 733
           },
-          "title": "Gaurav Arora's TDD Katas Collection"
+          "title": "Gaurav Arora's TDD Katas Collection",
+          "first_seen": "2026-08-29T01:57:42.951Z"
         }
       ],
       "title": "Overview"
@@ -475,7 +505,8 @@
             "owner": "microsoft",
             "repo": "QuantumKatas",
             "stars": 4909
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -490,7 +521,8 @@
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
             "stars": 4273
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -505,7 +537,8 @@
             "owner": "eficode-academy",
             "repo": "git-katas",
             "stars": 1671
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -519,8 +552,9 @@
             "last_commit": "2023-11-11T21:46:31Z",
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1531
-          }
+            "stars": 1530
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -535,7 +569,8 @@
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
             "stars": 826
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -550,7 +585,8 @@
             "owner": "ardalis",
             "repo": "kata-catalog",
             "stars": 773
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -565,7 +601,8 @@
             "owner": "NotMyself",
             "repo": "GildedRose",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -580,7 +617,8 @@
             "owner": "emilybache",
             "repo": "Racing-Car-Katas",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -595,7 +633,8 @@
             "owner": "eficode-academy",
             "repo": "docker-katas",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -610,7 +649,8 @@
             "owner": "emilybache",
             "repo": "Parrot-Refactoring-Kata",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -625,7 +665,8 @@
             "owner": "emilybache",
             "repo": "SupermarketReceipt-Refactoring-Kata",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -640,7 +681,8 @@
             "owner": "emilybache",
             "repo": "KataTrainReservation",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -655,7 +697,8 @@
             "owner": "Gianfrancoalongi",
             "repo": "incremental_katas",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -670,7 +713,8 @@
             "owner": "daviddenton",
             "repo": "refactoring-golf",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -685,7 +729,8 @@
             "owner": "matteobaglini",
             "repo": "functional-structures-refactoring-kata",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -700,7 +745,8 @@
             "owner": "racingDeveloper",
             "repo": "tell-dont-ask-kata",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -715,7 +761,8 @@
             "owner": "sandromancuso",
             "repo": "social_networking_kata",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -730,7 +777,8 @@
             "owner": "AlanBarber",
             "repo": "CodeKatas",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -745,7 +793,8 @@
             "owner": "sandromancuso",
             "repo": "salaryslipkata",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -760,7 +809,8 @@
             "owner": "christian-fei",
             "repo": "opening-hours-kata",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -775,7 +825,8 @@
             "owner": "claranet-it",
             "repo": "goose-game-kata",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -790,7 +841,8 @@
             "owner": "nickdelgrosso",
             "repo": "dna-transcription-kata",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -805,7 +857,8 @@
             "owner": "xpepper",
             "repo": "PasswordStrengthChecker",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -820,7 +873,8 @@
             "owner": "pdt256",
             "repo": "kata",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -835,7 +889,8 @@
             "owner": "ivoputzer",
             "repo": "cli-args-parser-kata",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -850,7 +905,8 @@
             "owner": "trikitrok",
             "repo": "beverages_pricing_refactoring_kata",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -865,7 +921,8 @@
             "owner": "nealhu",
             "repo": "args-kata",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         },
         {
           "node_type": "item",
@@ -880,7 +937,8 @@
             "owner": "nealhu",
             "repo": "promotion-text-kata",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:57:42.951Z"
         }
       ],
       "title": "Others"
@@ -899,16 +957,17 @@
             "last_commit": "2026-07-16T18:07:17Z",
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3152
+            "stars": 3153
           },
-          "title": "Please read the contribution guidelines."
+          "title": "Please read the contribution guidelines.",
+          "first_seen": "2026-08-29T01:57:42.951Z"
         }
       ],
       "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:24:00.239Z",
+    "last_updated": "2026-08-29T01:57:42.951Z",
     "original_repository_info": {
       "archived": false,
       "id": 47000453,
@@ -916,7 +975,7 @@
       "last_commit": "2026-07-16T18:07:17Z",
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3152
+      "stars": 3153
     },
     "original_repository_sha": "937b939e221213b3d2cf07df34b00f37540e2a43",
     "enhanced_repository": "enhansome/enhansome-katas",
