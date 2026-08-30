@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4273,
+            "stars": 4272,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -981,7 +981,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 826,
+            "stars": 825,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:28:34.740Z",
+    "last_updated": "2026-08-30T21:48:34.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
