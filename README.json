@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4272,
+            "stars": 4275,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -932,7 +932,7 @@
             "open_issues": 64,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1671,
+            "stars": 1672,
             "topics": [
               "git",
               "git-exercises",
@@ -977,7 +977,7 @@
             "id": 10599822,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-21T22:39:22Z",
+            "last_commit": "2026-08-31T11:54:26Z",
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
@@ -1002,7 +1002,7 @@
             "open_issues": 12,
             "owner": "ardalis",
             "repo": "kata-catalog",
-            "stars": 773,
+            "stars": 774,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:48:34.672Z",
+    "last_updated": "2026-08-31T23:05:08.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
