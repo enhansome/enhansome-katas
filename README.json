@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4275,
+            "stars": 4276,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1531,
+            "stars": 1530,
             "topics": [
               "sql"
             ]
@@ -981,7 +981,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 825,
+            "stars": 824,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1044,7 +1044,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Racing-Car-Katas",
-            "stars": 318,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "trikitrok",
             "repo": "beverages_pricing_refactoring_kata",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3153,
+            "stars": 3151,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:32:17.855Z",
+    "last_updated": "2026-09-02T21:30:06.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3153,
+      "stars": 3151,
       "topics": [
         "awesome",
         "awesome-list",
