@@ -82,13 +82,13 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,276 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,277 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
 * [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,672 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
 * [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,530 | 🐛 8 | 📅 2023-11-11
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 824 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 774 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
-* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 319 | 🐛 1 | 🌐 Java | 📅 2025-05-22
+* [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 318 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 290 | 🐛 14 | 🌐 Dockerfile | 📅 2026-02-20
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 135 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
 * [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 128 | 🐛 0 | 🌐 C# | 📅 2026-05-19
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

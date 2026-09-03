@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4276,
+            "stars": 4277,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1044,7 +1044,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Racing-Car-Katas",
-            "stars": 319,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:30:06.112Z",
+    "last_updated": "2026-09-03T21:32:25.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
