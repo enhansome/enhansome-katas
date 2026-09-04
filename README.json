@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4909,
+            "stars": 4908,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -932,7 +932,7 @@
             "open_issues": 64,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1672,
+            "stars": 1673,
             "topics": [
               "git",
               "git-exercises",
@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1530,
+            "stars": 1529,
             "topics": [
               "sql"
             ]
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:32:25.973Z",
+    "last_updated": "2026-09-04T21:10:23.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
