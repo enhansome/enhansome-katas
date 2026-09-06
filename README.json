@@ -1107,7 +1107,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "SupermarketReceipt-Refactoring-Kata",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3151,
+            "stars": 3154,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:53:14.203Z",
+    "last_updated": "2026-09-06T20:59:39.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3151,
+      "stars": 3154,
       "topics": [
         "awesome",
         "awesome-list",
