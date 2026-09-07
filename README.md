@@ -83,7 +83,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
 * [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,277 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,673 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,674 | 🐛 64 | 🌐 Shell | 📅 2026-01-26
 * [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,531 | 🐛 8 | 📅 2023-11-11
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 824 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 774 | 🐛 12 | 🌐 C# | 📅 2024-02-14
@@ -91,7 +91,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 318 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 290 | 🐛 14 | 🌐 Dockerfile | 📅 2026-02-20
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 135 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
-* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-19
+* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 130 | 🐛 0 | 🌐 C# | 📅 2026-05-19
 * [Train Reservation kata](https://github.com/emilybache/KataTrainReservation) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2026-01-19
 * [incremental\_katas](https://github.com/Gianfrancoalongi/incremental_katas) ⭐ 61 | 🐛 0 | 📅 2023-09-06
 * [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf) ⭐ 58 | 🐛 4 | 🌐 Java | 📅 2024-05-06
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

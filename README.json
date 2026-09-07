@@ -932,7 +932,7 @@
             "open_issues": 64,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1673,
+            "stars": 1674,
             "topics": [
               "git",
               "git-exercises",
@@ -1107,7 +1107,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "SupermarketReceipt-Refactoring-Kata",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:59:39.444Z",
+    "last_updated": "2026-09-07T21:51:45.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
