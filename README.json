@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4277,
+            "stars": 4280,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1002,7 +1002,7 @@
             "open_issues": 12,
             "owner": "ardalis",
             "repo": "kata-catalog",
-            "stars": 774,
+            "stars": 773,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1061,7 +1061,7 @@
             "id": 94071787,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-09T21:17:06Z",
+            "last_commit": "2026-09-10T11:17:15Z",
             "open_issues": 15,
             "owner": "eficode-academy",
             "repo": "docker-katas",
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3155,
+            "stars": 3156,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:27:34.896Z",
+    "last_updated": "2026-09-10T21:20:01.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3155,
+      "stars": 3156,
       "topics": [
         "awesome",
         "awesome-list",
