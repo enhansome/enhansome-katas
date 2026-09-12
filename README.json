@@ -929,7 +929,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-26T09:07:32Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "eficode-academy",
             "repo": "git-katas",
             "stars": 1676,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:30:22.408Z",
+    "last_updated": "2026-09-12T21:08:23.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
