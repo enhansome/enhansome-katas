@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:42.951Z"
@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:42.951Z"
@@ -63,7 +63,7 @@
                 "open_issues": 0,
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:42.951Z"
@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:42.951Z"
@@ -105,7 +105,7 @@
                 "open_issues": 0,
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:42.951Z"
@@ -126,7 +126,7 @@
                 "open_issues": 0,
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:42.951Z"
@@ -147,7 +147,7 @@
                 "open_issues": 0,
                 "owner": "gigasquid",
                 "repo": "wonderland-clojure-katas",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:42.951Z"
@@ -166,7 +166,7 @@
             "open_issues": 0,
             "owner": "gigasquid",
             "repo": "wonderland-clojure-katas",
-            "stars": 875,
+            "stars": 876,
             "topics": []
           },
           "title": "Wonderland Clojure Katas",
@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4284,
+            "stars": 4285,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1533,
+            "stars": 1534,
             "topics": [
               "sql"
             ]
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:08:23.915Z",
+    "last_updated": "2026-09-13T21:13:25.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",

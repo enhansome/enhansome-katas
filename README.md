@@ -42,15 +42,15 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [Kata20: Klondike](http://codekata.com/kata/kata20-klondike/)
 * [Kata21: Simple Lists](http://codekata.com/kata/kata21-simple-lists/)
 
-## [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+## [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
 
-* [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
-* [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
-* [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
-* [Fox Goose Bag of Corn](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
-* [Magic Square](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
-* [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
-* [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number) ⭐ 875 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+* [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+* [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+* [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+* [Fox Goose Bag of Corn](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+* [Magic Square](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+* [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
+* [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number) ⭐ 876 | 🐛 0 | 🌐 Clojure | 📅 2023-10-28
 
 ## [SensioLabs PoleDev Katas](https://github.com/devdrops/Katas) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2015-10-23
 
@@ -82,9 +82,9 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,284 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,285 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
 * [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,676 | 🐛 65 | 🌐 Shell | 📅 2026-01-26
-* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,533 | 🐛 8 | 📅 2023-11-11
+* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,534 | 🐛 8 | 📅 2023-11-11
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 825 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 773 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
