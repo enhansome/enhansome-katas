@@ -83,13 +83,13 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
 * [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,285 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,676 | 🐛 65 | 🌐 Shell | 📅 2026-01-26
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,677 | 🐛 65 | 🌐 Shell | 📅 2026-01-26
 * [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,534 | 🐛 8 | 📅 2023-11-11
-* [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 825 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
+* [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 826 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 773 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
 * [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 318 | 🐛 1 | 🌐 Java | 📅 2025-05-22
-* [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 290 | 🐛 14 | 🌐 Dockerfile | 📅 2026-09-11
+* [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 291 | 🐛 14 | 🌐 Dockerfile | 📅 2026-09-11
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 135 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
 * [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 130 | 🐛 0 | 🌐 C# | 📅 2026-05-19
 * [Train Reservation kata](https://github.com/emilybache/KataTrainReservation) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2026-01-19
@@ -98,7 +98,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata) ⭐ 35 | 🐛 3 | 🌐 C# | 📅 2021-05-12
 * [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata) ⭐ 34 | 🐛 3 | 🌐 PHP | 📅 2023-11-02
 * [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata) ⭐ 33 | 🐛 1 | 🌐 Scala | 📅 2017-09-12
-* [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) ⭐ 24 | 🐛 1 | 🌐 C# | 📅 2022-11-03
+* [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) ⭐ 25 | 🐛 1 | 🌐 C# | 📅 2022-11-03
 * [Salary slip kata](https://github.com/sandromancuso/salaryslipkata) ⭐ 19 | 🐛 1 | 🌐 Java | 📅 2021-10-14
 * [Opening Hours Kata](https://github.com/christian-fei/opening-hours-kata) ⭐ 8 | 🐛 3 | 📅 2018-09-19
 * [The Goose Game Kata](https://github.com/xpeppers/goose-game-kata) ⭐ 8 | 🐛 0 | 📅 2020-06-15
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

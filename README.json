@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4910,
+            "stars": 4911,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -932,7 +932,7 @@
             "open_issues": 65,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1676,
+            "stars": 1677,
             "topics": [
               "git",
               "git-exercises",
@@ -981,7 +981,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 825,
+            "stars": 826,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1065,7 +1065,7 @@
             "open_issues": 14,
             "owner": "eficode-academy",
             "repo": "docker-katas",
-            "stars": 290,
+            "stars": 291,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1269,7 +1269,7 @@
             "open_issues": 1,
             "owner": "AlanBarber",
             "repo": "CodeKatas",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "c-sharp",
               "caesar-cipher",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:13:25.597Z",
+    "last_updated": "2026-09-14T22:13:57.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
