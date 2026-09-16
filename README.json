@@ -932,7 +932,7 @@
             "open_issues": 65,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1677,
+            "stars": 1680,
             "topics": [
               "git",
               "git-exercises",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:53:02.031Z",
+    "last_updated": "2026-09-16T21:50:27.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
