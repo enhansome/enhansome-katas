@@ -929,10 +929,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-26T09:07:32Z",
-            "open_issues": 65,
+            "open_issues": 67,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1679,
+            "stars": 1680,
             "topics": [
               "git",
               "git-exercises",
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3157,
+            "stars": 3158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:23:32.478Z",
+    "last_updated": "2026-09-22T21:44:46.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3157,
+      "stars": 3158,
       "topics": [
         "awesome",
         "awesome-list",
