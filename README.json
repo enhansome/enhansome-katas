@@ -908,7 +908,7 @@
             "language": "XSLT",
             "license": "MIT",
             "last_commit": "2026-08-21T21:22:39Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
             "stars": 4290,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:44:46.875Z",
+    "last_updated": "2026-09-23T21:57:05.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
