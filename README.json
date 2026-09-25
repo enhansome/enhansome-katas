@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4291,
+            "stars": 4292,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:55:00.619Z",
+    "last_updated": "2026-09-25T21:55:47.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
