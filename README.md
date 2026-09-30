@@ -82,10 +82,10 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,296 | 🐛 1 | 🌐 XSLT | 📅 2026-08-21
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,681 | 🐛 67 | 🌐 Shell | 📅 2026-01-26
-* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,534 | 🐛 8 | 📅 2023-11-11
-* [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 827 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,298 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,682 | 🐛 67 | 🌐 Shell | 📅 2026-01-26
+* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,535 | 🐛 8 | 📅 2023-11-11
+* [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 828 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 773 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
 * [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 318 | 🐛 1 | 🌐 Java | 📅 2025-05-22
@@ -125,7 +125,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ## Contribution
 
-#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,159 | 🐛 1 | 📅 2026-07-16.
+#### Please read the [contribution guidelines](https://github.com/gmontalvoriv/katas/blob/master/CONTRIBUTING.md) ⭐ 3,160 | 🐛 1 | 📅 2026-07-16.
 
 ## License
 
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

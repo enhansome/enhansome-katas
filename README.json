@@ -908,10 +908,10 @@
             "language": "XSLT",
             "license": "MIT",
             "last_commit": "2026-08-21T21:22:39Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4296,
+            "stars": 4298,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -932,7 +932,7 @@
             "open_issues": 67,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1681,
+            "stars": 1682,
             "topics": [
               "git",
               "git-exercises",
@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1534,
+            "stars": 1535,
             "topics": [
               "sql"
             ]
@@ -981,7 +981,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 827,
+            "stars": 828,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3159,
+            "stars": 3160,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:47:44.088Z",
+    "last_updated": "2026-09-30T22:45:40.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3159,
+      "stars": 3160,
       "topics": [
         "awesome",
         "awesome-list",
