@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Alphabet Cipher",
-              "description": null,
+              "description": "gigasquid/wonderland-clojure-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Card game War",
-              "description": null,
+              "description": "gigasquid/wonderland-clojure-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "Doublets",
-              "description": null,
+              "description": "gigasquid/wonderland-clojure-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "Fox Goose Bag of Corn",
-              "description": null,
+              "description": "gigasquid/wonderland-clojure-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "Magic Square",
-              "description": null,
+              "description": "gigasquid/wonderland-clojure-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -113,7 +113,7 @@
             {
               "node_type": "item",
               "title": "Tiny Maze",
-              "description": null,
+              "description": "gigasquid/wonderland-clojure-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,7 +134,7 @@
             {
               "node_type": "item",
               "title": "Wonderland Number",
-              "description": null,
+              "description": "gigasquid/wonderland-clojure-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -177,7 +177,7 @@
             {
               "node_type": "item",
               "title": "Kata 1: (Form) DataTransformer",
-              "description": null,
+              "description": "devdrops/Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": "Kata 2: (EventDispatcher) Event Listener / Event Dispatcher",
-              "description": null,
+              "description": "devdrops/Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -219,7 +219,7 @@
             {
               "node_type": "item",
               "title": "Kata 3: (Form) Inherit data / Virtual Form",
-              "description": null,
+              "description": "devdrops/Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -240,7 +240,7 @@
             {
               "node_type": "item",
               "title": "Kata 4: (Form) File Upload",
-              "description": null,
+              "description": "devdrops/Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -261,7 +261,7 @@
             {
               "node_type": "item",
               "title": "Kata 5: (Translation) Manage translations",
-              "description": null,
+              "description": "devdrops/Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "String Sum Kata",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -339,7 +339,7 @@
             {
               "node_type": "item",
               "title": "String Calculator Kata",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -374,7 +374,7 @@
             {
               "node_type": "item",
               "title": "The Bowling Game Kata",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -409,7 +409,7 @@
             {
               "node_type": "item",
               "title": "The FizzBuzz Kata",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "The OddEven Kata",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -479,7 +479,7 @@
             {
               "node_type": "item",
               "title": "The PrimeFactor Kata",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -514,7 +514,7 @@
             {
               "node_type": "item",
               "title": "Game of Life",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "Harry Potter",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -584,7 +584,7 @@
             {
               "node_type": "item",
               "title": "LCD Digits",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -619,7 +619,7 @@
             {
               "node_type": "item",
               "title": "Leap Year",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -654,7 +654,7 @@
             {
               "node_type": "item",
               "title": "Mine Fields",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,7 +689,7 @@
             {
               "node_type": "item",
               "title": "Poker Hands",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -724,7 +724,7 @@
             {
               "node_type": "item",
               "title": "Recently Used List",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -759,7 +759,7 @@
             {
               "node_type": "item",
               "title": "Reversi",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -794,7 +794,7 @@
             {
               "node_type": "item",
               "title": "Yehtzee",
-              "description": null,
+              "description": "garora/TDD-Katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -869,7 +869,7 @@
         {
           "node_type": "item",
           "title": "The Quantum Katas",
-          "description": null,
+          "description": "microsoft/QuantumKatas",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -898,7 +898,7 @@
         {
           "node_type": "item",
           "title": "Gilded Rose - Many languages",
-          "description": null,
+          "description": "emilybache/GildedRose-Refactoring-Kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -919,7 +919,7 @@
         {
           "node_type": "item",
           "title": "Git katas",
-          "description": null,
+          "description": "eficode-academy/git-katas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -945,7 +945,7 @@
         {
           "node_type": "item",
           "title": "SQL-exercise",
-          "description": null,
+          "description": "XD-DENG/SQL-exercise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -968,7 +968,7 @@
         {
           "node_type": "item",
           "title": "Tennis Refactoring Kata",
-          "description": null,
+          "description": "emilybache/Tennis-Refactoring-Kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -989,7 +989,7 @@
         {
           "node_type": "item",
           "title": "RPG Game kata",
-          "description": null,
+          "description": "ardalis/kata-catalog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,7 +1010,7 @@
         {
           "node_type": "item",
           "title": "Gilded Rose Original - C#",
-          "description": null,
+          "description": "NotMyself/GildedRose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,7 +1031,7 @@
         {
           "node_type": "item",
           "title": "Racing Car Katas",
-          "description": null,
+          "description": "emilybache/Racing-Car-Katas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1052,7 +1052,7 @@
         {
           "node_type": "item",
           "title": "Docker Katas",
-          "description": null,
+          "description": "eficode-academy/docker-katas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1073,7 +1073,7 @@
         {
           "node_type": "item",
           "title": "Parrot Refactoring Kata",
-          "description": null,
+          "description": "emilybache/Parrot-Refactoring-Kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1094,7 +1094,7 @@
         {
           "node_type": "item",
           "title": "SupermarketReceipt Refactoring Kata",
-          "description": null,
+          "description": "emilybache/SupermarketReceipt-Refactoring-Kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,7 +1115,7 @@
         {
           "node_type": "item",
           "title": "Train Reservation kata",
-          "description": null,
+          "description": "emilybache/KataTrainReservation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1136,7 +1136,7 @@
         {
           "node_type": "item",
           "title": "incremental_katas",
-          "description": null,
+          "description": "Gianfrancoalongi/incremental_katas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1157,7 +1157,7 @@
         {
           "node_type": "item",
           "title": "Refactoring Golf Kata",
-          "description": null,
+          "description": "daviddenton/refactoring-golf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1182,7 +1182,7 @@
         {
           "node_type": "item",
           "title": "Functional Structures Refactoring Kata",
-          "description": null,
+          "description": "matteobaglini/functional-structures-refactoring-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1214,7 +1214,7 @@
         {
           "node_type": "item",
           "title": "Tell don't ask kata",
-          "description": null,
+          "description": "racingDeveloper/tell-dont-ask-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1235,7 +1235,7 @@
         {
           "node_type": "item",
           "title": "Social Networking Kata",
-          "description": null,
+          "description": "sandromancuso/social_networking_kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,7 +1256,7 @@
         {
           "node_type": "item",
           "title": ".Net Code Katas",
-          "description": null,
+          "description": "AlanBarber/CodeKatas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1286,7 +1286,7 @@
         {
           "node_type": "item",
           "title": "Salary slip kata",
-          "description": null,
+          "description": "sandromancuso/salaryslipkata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1307,7 +1307,7 @@
         {
           "node_type": "item",
           "title": "Opening Hours Kata",
-          "description": null,
+          "description": "christian-fei/opening-hours-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1328,7 +1328,7 @@
         {
           "node_type": "item",
           "title": "The Goose Game Kata",
-          "description": null,
+          "description": "claranet-it/goose-game-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1354,7 +1354,7 @@
         {
           "node_type": "item",
           "title": "DNA Transcription Kata",
-          "description": null,
+          "description": "nickdelgrosso/dna-transcription-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1382,7 +1382,7 @@
         {
           "node_type": "item",
           "title": "Password-strength Checker TDD Kata",
-          "description": null,
+          "description": "xpepper/PasswordStrengthChecker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1408,7 +1408,7 @@
         {
           "node_type": "item",
           "title": "Pdt256 katas (php, go, python, java, haskell, typescript)",
-          "description": null,
+          "description": "pdt256/kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1429,7 +1429,7 @@
         {
           "node_type": "item",
           "title": "CLI Arguments Parser Kata",
-          "description": null,
+          "description": "ivoputzer/cli-args-parser-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1458,7 +1458,7 @@
         {
           "node_type": "item",
           "title": "The Beverages Prices Refactoring Kata",
-          "description": null,
+          "description": "trikitrok/beverages_pricing_refactoring_kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1479,7 +1479,7 @@
         {
           "node_type": "item",
           "title": "Args Kata",
-          "description": null,
+          "description": "nealhu/args-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1500,7 +1500,7 @@
         {
           "node_type": "item",
           "title": "Promotion Text Kata",
-          "description": null,
+          "description": "nealhu/promotion-text-kata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:45:05.989Z",
+    "last_updated": "2026-10-03T04:56:11.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
