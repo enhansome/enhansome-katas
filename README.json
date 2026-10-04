@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1535,
+            "stars": 1536,
             "topics": [
               "sql"
             ]
@@ -981,7 +981,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 828,
+            "stars": 829,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:56:27.900Z",
+    "last_updated": "2026-10-04T22:09:10.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
