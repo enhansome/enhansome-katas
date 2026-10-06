@@ -1002,7 +1002,7 @@
             "open_issues": 12,
             "owner": "ardalis",
             "repo": "kata-catalog",
-            "stars": 773,
+            "stars": 772,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:43:17.728Z",
+    "last_updated": "2026-10-06T22:51:27.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
