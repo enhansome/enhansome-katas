@@ -82,9 +82,9 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,301 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
-* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,682 | 🐛 67 | 🌐 Shell | 📅 2026-01-26
-* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,536 | 🐛 8 | 📅 2023-11-11
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,302 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
+* [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,684 | 🐛 67 | 🌐 Shell | 📅 2026-01-26
+* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,537 | 🐛 8 | 📅 2023-11-11
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 829 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
 * [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md) ⭐ 772 | 🐛 12 | 🌐 C# | 📅 2024-02-14
 * [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose) ⭐ 417 | 🐛 7 | 🌐 C# | 📅 2024-07-03
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

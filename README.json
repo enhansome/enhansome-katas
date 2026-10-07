@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4301,
+            "stars": 4302,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -932,7 +932,7 @@
             "open_issues": 67,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1682,
+            "stars": 1684,
             "topics": [
               "git",
               "git-exercises",
@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "sql"
             ]
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:51:27.339Z",
+    "last_updated": "2026-10-07T23:25:22.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
