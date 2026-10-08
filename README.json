@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4909,
+            "stars": 4908,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4302,
+            "stars": 4303,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -929,10 +929,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-26T09:07:32Z",
-            "open_issues": 67,
+            "open_issues": 65,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1684,
+            "stars": 1686,
             "topics": [
               "git",
               "git-exercises",
@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1537,
+            "stars": 1538,
             "topics": [
               "sql"
             ]
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:25:22.297Z",
+    "last_updated": "2026-10-08T23:36:52.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
