@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4309,
+            "stars": 4310,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "trikitrok",
             "repo": "beverages_pricing_refactoring_kata",
-            "stars": 3,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3164,
+            "stars": 3163,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:10:56.257Z",
+    "last_updated": "2026-10-18T21:12:38.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3164,
+      "stars": 3163,
       "topics": [
         "awesome",
         "awesome-list",
