@@ -317,7 +317,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -352,7 +352,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -387,7 +387,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -422,7 +422,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -457,7 +457,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -492,7 +492,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -527,7 +527,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -562,7 +562,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -597,7 +597,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -632,7 +632,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -667,7 +667,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -702,7 +702,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -737,7 +737,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -772,7 +772,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -807,7 +807,7 @@
                 "open_issues": 1,
                 "owner": "garora",
                 "repo": "TDD-Katas",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "csharp8",
                   "csharp9",
@@ -840,7 +840,7 @@
             "open_issues": 1,
             "owner": "garora",
             "repo": "TDD-Katas",
-            "stars": 733,
+            "stars": 734,
             "topics": [
               "csharp8",
               "csharp9",
@@ -908,10 +908,10 @@
             "language": "XSLT",
             "license": "MIT",
             "last_commit": "2026-08-21T21:22:39Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4310,
+            "stars": 4312,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3163,
+            "stars": 3165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:00:07.071Z",
+    "last_updated": "2026-10-21T22:03:17.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3163,
+      "stars": 3165,
       "topics": [
         "awesome",
         "awesome-list",
