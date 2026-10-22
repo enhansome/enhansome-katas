@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4910,
+            "stars": 4914,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -908,7 +908,7 @@
             "language": "XSLT",
             "license": "MIT",
             "last_commit": "2026-08-21T21:22:39Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
             "stars": 4312,
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3165,
+            "stars": 3166,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:03:17.815Z",
+    "last_updated": "2026-10-22T22:01:49.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3165,
+      "stars": 3166,
       "topics": [
         "awesome",
         "awesome-list",
