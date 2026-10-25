@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4914,
+            "stars": 4915,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:22:46.822Z",
+    "last_updated": "2026-10-25T21:20:11.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
