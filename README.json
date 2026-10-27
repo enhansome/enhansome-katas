@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1538,
+            "stars": 1540,
             "topics": [
               "sql"
             ]
@@ -1002,7 +1002,7 @@
             "open_issues": 12,
             "owner": "ardalis",
             "repo": "kata-catalog",
-            "stars": 773,
+            "stars": 772,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3168,
+            "stars": 3167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:59:03.371Z",
+    "last_updated": "2026-10-27T22:48:43.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3168,
+      "stars": 3167,
       "topics": [
         "awesome",
         "awesome-list",
