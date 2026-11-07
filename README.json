@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4320,
+            "stars": 4322,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1023,7 +1023,7 @@
             "open_issues": 7,
             "owner": "NotMyself",
             "repo": "GildedRose",
-            "stars": 417,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3173,
+            "stars": 3174,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:36:06.013Z",
+    "last_updated": "2026-11-07T22:27:22.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3173,
+      "stars": 3174,
       "topics": [
         "awesome",
         "awesome-list",
