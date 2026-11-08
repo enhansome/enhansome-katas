@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4322,
+            "stars": 4321,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "SupermarketReceipt-Refactoring-Kata",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:27:22.602Z",
+    "last_updated": "2026-11-08T22:37:27.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
