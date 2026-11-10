@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4922,
+            "stars": 4920,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -932,7 +932,7 @@
             "open_issues": 68,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1695,
+            "stars": 1696,
             "topics": [
               "git",
               "git-exercises",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:37:27.350Z",
+    "last_updated": "2026-11-10T01:50:27.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
