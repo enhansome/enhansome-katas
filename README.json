@@ -981,7 +981,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 832,
+            "stars": 831,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:51:07.338Z",
+    "last_updated": "2026-11-12T01:13:53.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
