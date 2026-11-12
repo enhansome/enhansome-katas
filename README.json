@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4322,
+            "stars": 4323,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1539,
+            "stars": 1540,
             "topics": [
               "sql"
             ]
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3174,
+            "stars": 3175,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:13:53.189Z",
+    "last_updated": "2026-11-12T23:56:29.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3174,
+      "stars": 3175,
       "topics": [
         "awesome",
         "awesome-list",
