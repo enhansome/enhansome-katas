@@ -958,7 +958,7 @@
             "open_issues": 8,
             "owner": "XD-DENG",
             "repo": "SQL-exercise",
-            "stars": 1541,
+            "stars": 1542,
             "topics": [
               "sql"
             ]
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:50:06.008Z",
+    "last_updated": "2026-11-15T23:17:33.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
