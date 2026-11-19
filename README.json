@@ -1044,7 +1044,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Racing-Car-Katas",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:27:54.450Z",
+    "last_updated": "2026-11-19T00:54:36.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
