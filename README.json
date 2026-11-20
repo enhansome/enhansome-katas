@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4922,
+            "stars": 4920,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4323,
+            "stars": 4322,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -932,7 +932,7 @@
             "open_issues": 68,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1696,
+            "stars": 1695,
             "topics": [
               "git",
               "git-exercises",
@@ -981,7 +981,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Tennis-Refactoring-Kata",
-            "stars": 831,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1002,7 +1002,7 @@
             "open_issues": 12,
             "owner": "ardalis",
             "repo": "kata-catalog",
-            "stars": 774,
+            "stars": 773,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1044,7 +1044,7 @@
             "open_issues": 1,
             "owner": "emilybache",
             "repo": "Racing-Car-Katas",
-            "stars": 322,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3178,
+            "stars": 3177,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:54:36.682Z",
+    "last_updated": "2026-11-20T00:58:45.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3178,
+      "stars": 3177,
       "topics": [
         "awesome",
         "awesome-list",
