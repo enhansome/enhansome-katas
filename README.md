@@ -91,12 +91,12 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 321 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 293 | 🐛 14 | 🌐 Dockerfile | 📅 2026-09-11
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 136 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
-* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 131 | 🐛 0 | 🌐 C# | 📅 2026-05-19
+* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 131 | 🐛 2 | 🌐 C# | 📅 2026-05-19
 * [Train Reservation kata](https://github.com/emilybache/KataTrainReservation) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2026-01-19
 * [incremental\_katas](https://github.com/Gianfrancoalongi/incremental_katas) ⭐ 61 | 🐛 0 | 📅 2023-09-06
 * [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf) ⭐ 58 | 🐛 4 | 🌐 Java | 📅 2024-05-06
 * [Functional Structures Refactoring Kata](https://github.com/matteobaglini/functional-structures-refactoring-kata) ⭐ 35 | 🐛 3 | 🌐 C# | 📅 2021-05-12
-* [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata) ⭐ 34 | 🐛 3 | 🌐 PHP | 📅 2023-11-02
+* [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata) ⭐ 34 | 🐛 2 | 🌐 PHP | 📅 2023-11-02
 * [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata) ⭐ 33 | 🐛 1 | 🌐 Scala | 📅 2017-09-12
 * [.Net Code Katas](https://github.com/AlanBarber/CodeKatas) ⭐ 25 | 🐛 1 | 🌐 C# | 📅 2022-11-03
 * [Salary slip kata](https://github.com/sandromancuso/salaryslipkata) ⭐ 19 | 🐛 1 | 🌐 Java | 📅 2021-10-14

@@ -1104,7 +1104,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-05-19T07:22:25Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "emilybache",
             "repo": "SupermarketReceipt-Refactoring-Kata",
             "stars": 131,
@@ -1224,7 +1224,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2023-11-02T08:25:34Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "racingDeveloper",
             "repo": "tell-dont-ask-kata",
             "stars": 34,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:33:16.463Z",
+    "last_updated": "2026-11-21T23:40:47.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
