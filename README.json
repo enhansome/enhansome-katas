@@ -882,7 +882,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4920,
+            "stars": 4921,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -932,7 +932,7 @@
             "open_issues": 68,
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1695,
+            "stars": 1696,
             "topics": [
               "git",
               "git-exercises",
@@ -1104,7 +1104,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-05-19T07:22:25Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "emilybache",
             "repo": "SupermarketReceipt-Refactoring-Kata",
             "stars": 131,
@@ -1539,7 +1539,7 @@
             "open_issues": 1,
             "owner": "gamontal",
             "repo": "awesome-katas",
-            "stars": 3177,
+            "stars": 3179,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:40:47.313Z",
+    "last_updated": "2026-11-22T23:57:31.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "gamontal",
       "repo": "awesome-katas",
-      "stars": 3177,
+      "stars": 3179,
       "topics": [
         "awesome",
         "awesome-list",
