@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "emilybache",
             "repo": "GildedRose-Refactoring-Kata",
-            "stars": 4323,
+            "stars": 4322,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:42.951Z"
@@ -929,7 +929,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-26T12:16:11Z",
-            "open_issues": 68,
+            "open_issues": 66,
             "owner": "eficode-academy",
             "repo": "git-katas",
             "stars": 1696,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:57:31.730Z",
+    "last_updated": "2026-11-24T04:09:18.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code katas",
