@@ -82,7 +82,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 ## Others
 
 * [The Quantum Katas](https://github.com/Microsoft/QuantumKatas) ⚠️ Archived
-* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,324 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
+* [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata) ⭐ 4,325 | 🐛 0 | 🌐 XSLT | 📅 2026-08-21
 * [Git katas](https://github.com/praqma-training/gitkatas) ⭐ 1,698 | 🐛 66 | 🌐 Shell | 📅 2026-10-26
 * [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,542 | 🐛 8 | 📅 2023-11-11
 * [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) ⭐ 833 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31
@@ -91,7 +91,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 * [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ⭐ 321 | 🐛 1 | 🌐 Java | 📅 2025-05-22
 * [Docker Katas](https://github.com/eficode-academy/docker-katas) ⭐ 293 | 🐛 14 | 🌐 Dockerfile | 📅 2026-09-11
 * [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) ⭐ 136 | 🐛 0 | 🌐 LabVIEW | 📅 2026-08-05
-* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 132 | 🐛 0 | 🌐 C# | 📅 2026-05-19
+* [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) ⭐ 133 | 🐛 0 | 🌐 C# | 📅 2026-05-19
 * [Train Reservation kata](https://github.com/emilybache/KataTrainReservation) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2026-01-19
 * [incremental\_katas](https://github.com/Gianfrancoalongi/incremental_katas) ⭐ 61 | 🐛 0 | 📅 2023-09-06
 * [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf) ⭐ 58 | 🐛 4 | 🌐 Java | 📅 2024-05-06
@@ -133,4 +133,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
